@@ -1,6 +1,10 @@
 # Derived data — reproducible from pipeline
 data/processed/
 data/raw/
+data/embeddings/
+
+# Large model files
+models/
 
 # Python
 __pycache__/
