@@ -1,0 +1,8 @@
+pandas
+sentence-transformers
+bertopic
+vaderSentiment
+transformers
+scikit-learn
+matplotlib
+seaborn
